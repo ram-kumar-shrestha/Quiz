@@ -1,0 +1,52 @@
+.container--options {
+  margin: 1rem auto;
+  /* float: left; */
+  width: 15rem;
+  text-align: left;
+  display: block;
+}
+
+input[type="radio"],
+label {
+  cursor: pointer;
+}
+
+form {
+  width: 20rem;
+  margin: 3rem auto 2rem;
+}
+
+button[type="submit"] {
+  padding: 1rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  outline: none;
+  background: #09272c83;
+  border: 2px solid #29c6e283;
+  border-radius: 5px;
+  color: #eee;
+  float: left;
+  margin: 0.5rem 3rem 1rem;
+  cursor: pointer;
+}
+
+button:focus,
+button:active,
+button:hover {
+  background: #eee;
+  color: #09272c83;
+}
+
+p {
+  display: block;
+  clear: both;
+  margin: 1rem auto;
+}
+
+.success {
+  color: #19e619;
+}
+
+.failure {
+  color: #e23333;
+}
