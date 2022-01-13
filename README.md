@@ -1,6 +1,6 @@
 # Quiz Web app with React JS
 
-This quiz web app is very basic and uses custom database. This web app is developed using React JS only. Questions will be 10 for one session and questions will be random from database/ in this case a state. You can test this app in this link [https://quiz-reactapp.netlify.app/] https://quiz-reactapp.netlify.app/
+This quiz web app is very basic and uses custom database. This web app is developed using React JS only. Questions will be 10 for one session and questions will be random from database/ in this case a state. You can test this app in this link [https://quiz-reactapp.netlify.app/](https://quiz-reactapp.netlify.app/)
 
 ## Scripts To Run The App Locally
 
