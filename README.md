@@ -2,7 +2,7 @@
 
 This quiz web app is very basic and uses custom database. This web app is developed using React JS only. Questions will be 10 for one session and questions will be random from database/ in this case a state. You can test this app in this link 
 
-## 
+## Scripts To Run The App Locally
 
 To run this program locally you can clone this app in your machine and run the following commands.
 
